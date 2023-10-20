@@ -1,0 +1,33 @@
+.container{
+    text-align: center;;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#game{
+    border: solid 3px;
+    
+}
+#score{
+    font-size: 30px;
+}
+#startButton{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;  
+    border: solid 10px;
+    background-color: lightgrey;
+    text-align: center;
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    cursor: pointer;        /* to set the cursor shape when hovering */
+}
+#highScoreT{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    display: inline;
+}
+#highScore{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    display: inline;
+    color: red;
+}
